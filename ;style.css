@@ -1,0 +1,116 @@
+
+body{
+    font: inherit;
+    margin: 0px;
+    
+}
+.Iphone{
+    margin-right: 800px;
+  color: azure;
+}
+
+
+.search-icon{
+
+fill: white;
+}
+
+
+
+.container text-center{
+
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+}
+
+.col{
+    height: 100vh;
+    flex: 1px;
+    border: none
+}
+
+.lnav{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+}
+
+ul{
+
+    list-style: none;
+padding: 0;
+margin: 0;
+
+}
+
+li{
+align-items: center;
+    margin-top: 40px;
+    margin-left: 30px;
+    color: white;
+   
+    
+}
+
+
+.arrow h5{
+margin-right: 450px;
+color: white;
+}
+
+.arrow h6{
+    margin-right: 300px;
+    margin-top: 15px;
+color: white;
+}
+
+img{
+    width: 100px;   
+    border: 1px solid #ccc;
+}
+
+.arrow img{
+    width: 100px;
+    height: auto;
+    border-radius: 900px;
+    margin-right: 500px;   
+}
+
+.lapi img{
+height: auto;
+    width: 350px;
+    margin-bottom: 10px;
+}
+.lapi h6 {
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+.search-icon{
+width: 50px;
+    color:#f2f2f2;
+  
+}
+
+.lag img{
+
+    width: 300px;
+    border-radius: 100px;
+
+}
+
+.lag h5{
+color: greenyellow;
+margin-right: 150px;
+}
+
+.lag h6{
+align-items: center;
+    color: greenyellow;
+    margin-top: 50px;
+}
